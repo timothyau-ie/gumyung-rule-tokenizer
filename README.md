@@ -2,6 +2,8 @@
 
 Definition of rules derived from the Gum Yung novels and the tokenizing / parsing of those rules
 
+A project I did in 2016.
+
 ## Background
 
 This is the by-product of <a href="">my project</a> of estimating the "power levels" of characters from the universe of 金庸 novels.
