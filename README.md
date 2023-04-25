@@ -12,6 +12,7 @@ Later on, I though maybe I could parse the formulae and a programme could deduce
 
 ## Sample Formulae
 
+~~~
 霍青桐(三分)~ 霍阿伊 ~ 閻世章+戴永明 2+-
 
 駱冰<吳國棟+馮輝+蔣天壽+韓春霖2-3 ~ 3
@@ -29,6 +30,7 @@ Later on, I though maybe I could parse the formulae and a programme could deduce
 張召重>李沅芷~3
 
 余魚同 > 吳國棟+蔣天壽+韓春霖0-2 ~ 1 再~四公差1+-~ 0 --（馮彈子up?）
+~~~
 
 ## Grammar For the Formulae
 
