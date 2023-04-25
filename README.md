@@ -33,12 +33,21 @@ Later on, I though maybe I could parse the formulae and a programme could deduce
 ## Grammar For the Formulae
 
 File = Row {("\r\n" | "," | "，") [Row]};
+
 Row = Party [Operator] RangeWithPrefer | Party Challenger {["再"] Challenger } ["?" | "？"];
+
 Challenger = Operator Party [RangeWithPrefer];
+
 Party = Fighter {"+" Fighter} | Fighter {Fighter};
+
 RangeWithPrefer = ["~"] Range [["~"] Range];
+
 Range = Number ["-" Number] | PositiveNumber ("++" | "+" | "-" | "+-");
+
 Operator = ">" | "<" | "=" | "~";
+
 Number = ["-"] PositiveNumber;
+
 PositiveNumber = Digit{Digit};
+
 Digit = "0" | "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" ;
