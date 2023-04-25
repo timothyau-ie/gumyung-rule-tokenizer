@@ -32,6 +32,7 @@ Later on, I though maybe I could parse the formulae and a programme could deduce
 
 ## Grammar For the Formulae
 
+~~~
 File = Row {("\r\n" | "," | "，") [Row]};
 
 Row = Party [Operator] RangeWithPrefer | Party Challenger {["再"] Challenger } ["?" | "？"];
@@ -51,3 +52,4 @@ Number = ["-"] PositiveNumber;
 PositiveNumber = Digit{Digit};
 
 Digit = "0" | "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" ;
+~~~
