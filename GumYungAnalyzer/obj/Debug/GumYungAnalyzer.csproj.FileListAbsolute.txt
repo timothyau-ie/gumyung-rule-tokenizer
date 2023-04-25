@@ -1,0 +1,9 @@
+C:\Users\Timothy\Desktop\all\GumYungAnalyzer\GumYungAnalyzer\bin\Debug\GumYungAnalyzer.exe.config
+C:\Users\Timothy\Desktop\all\GumYungAnalyzer\GumYungAnalyzer\bin\Debug\GumYungAnalyzer.exe
+C:\Users\Timothy\Desktop\all\GumYungAnalyzer\GumYungAnalyzer\bin\Debug\GumYungAnalyzer.pdb
+C:\Users\Timothy\Desktop\all\GumYungAnalyzer\GumYungAnalyzer\obj\Debug\GumYungAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Timothy\Desktop\all\GumYungAnalyzer\GumYungAnalyzer\obj\Debug\GumYungAnalyzer.Form1.resources
+C:\Users\Timothy\Desktop\all\GumYungAnalyzer\GumYungAnalyzer\obj\Debug\GumYungAnalyzer.Properties.Resources.resources
+C:\Users\Timothy\Desktop\all\GumYungAnalyzer\GumYungAnalyzer\obj\Debug\GumYungAnalyzer.csproj.GenerateResource.Cache
+C:\Users\Timothy\Desktop\all\GumYungAnalyzer\GumYungAnalyzer\obj\Debug\GumYungAnalyzer.exe
+C:\Users\Timothy\Desktop\all\GumYungAnalyzer\GumYungAnalyzer\obj\Debug\GumYungAnalyzer.pdb
