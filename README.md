@@ -10,7 +10,7 @@ This is the by-product of <a href="">my project</a> of estimating the "power lev
 
 I have developed a way to determine power difference formulae from the texts (mostly training my own mind in dealing with the scenarios described), and these formulae are considered when I manually placed the characters in different levels.
 
-Later on, I though maybe I could parse the formulae and a programme could deduce the estimated power levels instead of me manually doing so. This is why I have this completed tokenizer/parser. But the AI part I gave up (not a data scientist)
+Later on, I thought maybe I could parse the formulae and a programme could deduce the estimated power levels instead of me manually doing so. This is why I have this completed tokenizer/parser. But the AI part I gave up (not a data scientist)
 
 ## Sample Formulae
 
