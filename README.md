@@ -6,7 +6,7 @@ A project I did in 2016.
 
 ## Background
 
-This is the by-product of my project of estimating the "power levels" of characters from the universe of 金庸 novels.
+This is the by-product of <a href="https://writelivefirst.blogspot.com/2023/05/blog-post_17.html">my project</a> of estimating the "power levels" of characters from the universe of 金庸 novels.
 
 I have developed a way to determine power difference formulae from the texts (mostly training my own mind in dealing with the scenarios described), and these formulae are considered when I manually placed the characters in different levels.
 
